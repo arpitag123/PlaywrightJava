@@ -1,0 +1,30 @@
+# Maven output
+/target/
+/Maven Dependencies/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+*.iml
+*.log
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+
+# Maven
+log/
+target/
+test-output/
+ 
